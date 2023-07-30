@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80">
+    <g data-name="Group 21814">
+        <g data-name="Rectangle 1420" style="stroke:#009574;fill:#fff;stroke-width:2px">
+            <rect width="80" height="80" rx="40" style="stroke:none"/>
+            <rect x="1" y="1" width="78" height="78" rx="39" style="fill:none"/>
+        </g>
+        <path data-name="Icon material-done" d="m13.971 25.191-6.653-6.653L5.1 20.756l8.871 8.871L32.98 10.618 30.762 8.4z" transform="translate(20.46 20.986)" style="fill:#009574;stroke:#009574"/>
+    </g>
+</svg>
